@@ -1,2 +1,3 @@
-# Neural-Networks-and-ODE-Models
+# Neural Networks and ODE Models
+
 Using neural networks to produce efficient ODE models
